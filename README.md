@@ -1,2 +1,2 @@
 # Spotify-Clone
-Designed and developed using html and css
+Successfully Designed and developed a Spotify Clone using html and css
